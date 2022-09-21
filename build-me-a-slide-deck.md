@@ -88,7 +88,7 @@ $$give 3 speaker notes bullet points about Conclusion$$
 ## Step 3 - Generate bulletpoints
 Prompt: 
 ```
-Replace the @@at-quoted expressions@@ in the following files with the content described.
+Replace the $$at-quoted expressions$$ in the following files with the content described.
 
 slides.md
 /``` [NP: the slash is me escaping markdown in GitHub]
