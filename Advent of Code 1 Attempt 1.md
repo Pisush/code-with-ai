@@ -5,8 +5,7 @@ First fed the instructinos to OpenAI's DaVinci. Then to OpenAI'ss Codex. Then ex
 
 Did not get the right answer.
 
-Here is the final code: https://replit.com/@pisush/advent-1-go
-
+[Here is the final code](https://replit.com/@pisush/advent-of-code-day-1-attempt-1)
 Please note that anywhere you see ``` /`/`/` ``` - originally this is normal 3 backticks, but for this MD file I had to escape it.
 
 And in more detail -
